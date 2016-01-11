@@ -1,0 +1,3 @@
+[submodule "sapcms4"]
+	path = sapcms4
+	url = https://github.com/thruthesky/sapcms4
