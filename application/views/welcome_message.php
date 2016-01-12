@@ -5,8 +5,7 @@ I will plug sapcms4 in.
 <?php
 
 
-use of\Entity;
-
-$obj = new Entity();
-
-
+// Testing a test script.
+use of\database\DatabaseTest;
+$test = new DatabaseTest();
+$test->run();
